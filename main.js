@@ -1,4 +1,4 @@
-class GraphTabs {
+class Tabs {
   constructor(selector, options) {
     let defaultOptions = {
       isChanged: () => {}

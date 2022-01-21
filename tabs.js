@@ -1,5 +1,2 @@
-const tabs1 = new GraphTabs('tab', {
-  isChanged: (tabs) => {
-    console.log(tabs);
-  }
-});
+//const tabs1 = new Tabs('tab');
+//const tabs2 = new Tabs('tab');
